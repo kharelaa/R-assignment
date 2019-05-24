@@ -38,10 +38,6 @@ sd_southwest_2019<-sd(as.matrix(t[52:100,6]))
 
 sd_southwest_2019
 
-t[52:100,3]
-
-mean_southwest_1999
-
 boxplot(t$Circumf_1999_cm[1:51],ylab="Northeast_Circumf_1999_cm")
 
 boxplot(t$Circumf_2019_cm[1:51],ylab="Northeast_Circumf_2019_cm")
