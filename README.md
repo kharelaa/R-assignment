@@ -2,6 +2,8 @@
 It includes coding for the first part of the assignment, including code used to import csv file.
 It includes code that helps calculate the average and standard deviation of tree circumference at the start and end of the study at both sides. Additionally, box plots of tree circumferences are made for the start and end of the study.
 
+Command and description both displayed when viewed under "Raw" format
+
 #Command to read .csv document and save it under 't'
 t<-read.csv("https://github.com/markziemann/SLE712_files/raw/master/week10_files/growth_data.csv")
 
